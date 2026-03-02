@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Nicolás Gutiérrez</h1>
 </div>
-<img width="1200" height="480" alt="Twitch Banner Offline Organico Azul Negro" src="https://github.com/user-attachments/assets/e3717132-2f49-4752-a01c-b04841a748fb" />
+<img width="1200" height="480" alt="Twitch Banner Offline Organico Azul Negro" src="" />
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
